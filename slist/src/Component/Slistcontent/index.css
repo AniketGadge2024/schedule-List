@@ -1,0 +1,93 @@
+.Slist-filter-section{
+max-width: 509px;
+height: 20px;
+
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+margin-left: 55px;
+
+font-size: 12px;
+font-weight: 400;
+line-height: 16.37px;
+
+
+}
+.Slist-filter-section-1{
+    
+    width: 100px;
+    height:20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+
+.Slist-content{
+ max-width: 866px;
+height: 70px;
+margin-top: 10px;
+margin-left: 30px;
+background-color:#FFFFFF;
+border-radius: 10px;
+display: flex;
+flex-direction: row;
+align-items: center;
+
+justify-content: space-between;
+padding-left: 25px;
+padding-right: 25px;
+
+
+font-size: 14px;
+font-weight: 600;
+line-height: 19.1px;
+
+
+}
+
+.Slist-content-checkbox{
+    width: 21px;
+    height: 21px;
+}
+
+.Slist-content-location-block{
+    width: 171px;
+height: 45px;
+border-radius: 22.5px;
+background-color:rgb(230, 230, 255) ;
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: left;
+padding-left: 20px;
+
+
+}
+.Slist-edit-del{
+    width: 30px;
+    height: 30px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+    border-radius: 50%;
+    background-color: rgb(255, 204, 204);
+}
+.Slist-yellow{
+    background-color: rgb(255, 255, 204);
+}
+.Slist-edit{
+    justify-content: space-between;
+    width: 70px;
+}
+.Slist-content-item-div{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.Slist-content:hover{
+    box-shadow: 1px 17px 44px 0px #03022912;
+
+}

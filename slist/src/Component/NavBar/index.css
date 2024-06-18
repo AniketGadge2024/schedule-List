@@ -1,0 +1,131 @@
+.main-cont-Nav{
+width: 218px;
+max-height:918px;
+min-height: 971px;
+border: 1px solid white;
+padding: 0%;
+
+}
+
+
+.title{
+    margin-top: 50px;
+    margin-left: 53px;
+}
+
+.title-head{
+display: inline-block;
+width: 54px;
+height: 33px;
+position: absolute;
+top: 55px;
+left: 110px;
+gap: 0px;
+opacity: 0px;
+
+
+font-size: 24px;
+font-weight: 600;
+line-height: 32.74px;
+text-align: left;
+
+
+}
+
+.nav-cont{
+    margin-top:50px;
+    
+}
+.nav-cont-item{
+margin-top: 15px;
+font-size: 16px;
+font-weight: 600;
+line-height: 21.82px;
+text-align: left;
+color: grey;
+
+    
+}
+
+.nav-img{
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    margin-left: 20px;
+}
+
+.profile-info{
+width: 166.98px;
+height: 43px;
+margin-top: 40px;
+
+border-radius: 12px;
+padding: 0%;
+display: flex;
+margin-left: 20px;
+
+
+}
+
+
+.Profile-name{
+
+font-size: 12px;
+font-weight: 600;
+margin: 0%;
+padding: 0%;
+
+}
+
+.profile-block{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    margin-top: 7px;
+}
+.profile-logout-img{
+width:20px;
+height: 20px;
+margin-top: 13px;
+margin-left: 10px;
+
+}
+
+.Profile-div-imagelogo{
+width: 168px;
+height: 161px;
+background-color:#e6e6ff;
+border-radius: 20px;
+margin-top: 260px;
+margin-left: 20px;
+display:flex ;
+flex-direction: column;
+justify-content: end;
+padding-bottom: 10px;
+align-items: center;
+
+}
+.Profile-button-Upgrade{
+width: 138px;
+height: 33px;
+
+border-radius: 10px;
+
+
+
+
+}
+.Profile-button-Upgrade-text{
+    font-size: 12px;
+    font-weight: 600;
+    display: block;
+    margin-bottom: 2px;
+  
+    
+}
+
+.nav-cont-item:hover{
+    background: linear-gradient(90deg, #ACA9FF 0%, rgba(172, 169, 255, 0) 10.25%);
+
+}
+
